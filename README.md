@@ -10,19 +10,19 @@ generation — from clinical records platforms to internal support tools.
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=laravel,php)](https://skillicons.dev)
+![Backend](https://skillicons.dev/icons?i=laravel,php)
 
 **Database**
 
-[![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+![Database](https://skillicons.dev/icons?i=mysql,postgres)
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,figma)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,figma)
 
 ## 🚀 Featured Projects
 
