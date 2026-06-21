@@ -14,7 +14,7 @@ generation — from clinical records platforms to internal support tools.
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=laravel,php)
+![Backend](https://skillicons.dev/icons?i=laravel,php,java)
 
 **Database**
 
